@@ -1,0 +1,17 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "learn",
+  "main": "encrypt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node encrypt.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ecdh": "^0.2.0",
+    "js-ecdsa": "^1.0.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
